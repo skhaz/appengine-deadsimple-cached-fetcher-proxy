@@ -1,0 +1,1 @@
+Dead simple. No dependencies.
